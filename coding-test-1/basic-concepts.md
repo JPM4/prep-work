@@ -88,7 +88,7 @@ end
 * Know how to create one.
 * Know how to access and set an element of the array.
 * Know how to add elements to the end of an array.
-* Know how to find the number of elements in an array
+* Know how to find the number of elements in an array.
 
 Arrays are lists of items. You can create an empty array like this
 

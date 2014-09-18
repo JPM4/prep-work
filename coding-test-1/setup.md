@@ -6,7 +6,7 @@ You can use [repl.it](http://repl.it) and avoid any setup of Ruby for
 the first coding challenge. Longer term, you will want to install Ruby
 on your computer. If you're ready to do that, read on!
 
-## Ruby 
+## Ruby
 
 [About.com's Ruby installation page][about-ruby-install] has
 instructions on how to install Ruby for Mac, Windows and Linux.
