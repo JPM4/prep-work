@@ -408,4 +408,4 @@ puts("Hello " + name + "!")
 
 In the real world, it is often simplest to write `gets.chomp`.
 
-**TODO**: Where do I talk about no `()`??
+**TODO**: Where do I talk about no `()`?? This is hard with gets!

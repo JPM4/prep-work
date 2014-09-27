@@ -154,3 +154,21 @@ You won't need to know:
 * Anything about classes or objects.
 * Importing files.
 * Procs or blocks.
+
+## TODO
+
+* Strings, Integers
+* arithmetic
+* puts, gets
+* to_i, to_s
+* string concatenation
+* chomp
+* variables; assignment
+* comparisons
+* if/elsif/else
+* logical connectives
+* loops: each, times, quitting infinite loop
+* arrays: push/pop, unshift/shift, indexing, setting position
+* strings: length
+* writing your own methods, return
+* breaking out of loops, return
