@@ -23,10 +23,12 @@ them even if you already know how to program**:
 * **[Introduction To Programming I][intro-to-programming-1]**
 * **[Introduction To Programming II][intro-to-programming-2]**
 * **[Introduction To Programming III][intro-to-programming-3]**
+* **[Introduction To Programming Summary][intro-to-programming-summary]**
 
 [intro-to-programming-1]: ./introduction-to-programming-1.md
 [intro-to-programming-2]: ./introduction-to-programming-2.md
 [intro-to-programming-3]: ./introduction-to-programming-3.md
+[intro-to-programming-summary]: ./introduction-to-programming-summary.md
 
 Students often find it helpful to cover the same material with several
 different resources. You may optionally look at:
