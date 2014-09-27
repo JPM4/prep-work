@@ -7,6 +7,10 @@ solve **four or five coding problems that test basic programming
 knowledge**. The challenge is timed: **you will have up to 45 minutes
 to complete the challenge**.
 
+## How do I setup Ruby?
+
+**TODO**: WRITE ME/LINK ME.
+
 ## How do I prepare?
 
 **You will want to prepare for the coding challenge so that you do
