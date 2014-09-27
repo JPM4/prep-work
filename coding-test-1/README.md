@@ -45,7 +45,7 @@ different resources. You may optionally look at:
 [chris-pine]: http://filepi.com/i/kF0llED
 [ruby-monk]: https://rubymonk.com/learning/books/1-ruby-primer
 
-After you have ready the three parts of Introduction to Programming,
+After you have read the three parts of Introduction to Programming,
 you should begin the practice problems. Doing the practice problems
 will build your familiarity with Ruby, and give you a good idea what
 the level of difficulty is on the coding challenge. **Complete all the
@@ -90,17 +90,3 @@ commitments.**
 **Please** do not search Google for answers to the problems; it is
 very easy for us to tell when solutions have been taken from Google.
 **Please do not post the problems to the internet**.
-
-# Prepwork
-
-Below we list some prepwork to complete before taking the first coding
-challenge. If you're new to coding, the prepwork is meant to introduce
-you to the fundamentals of writing a computer program. After you've
-prepared, try out the example problems (and check the solutions!)
-before beginning the coding challenge.
-
-* [Setup Ruby][setup] (optional)
-* [Basic Ruby Concepts][basic-concepts]
-[basic-concepts]: ./basic-concepts.md
-
-[setup]: ./setup.md
